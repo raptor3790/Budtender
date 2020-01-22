@@ -87,3 +87,4 @@ iOSInjectionProject/
 *.lock
 *.xcworkspace
 Pods/
+GoogleService-Info.plist
